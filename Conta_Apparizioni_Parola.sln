@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30330.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Conta_Apparizioni_Parola", "Conta_Apparizioni_Parola.csproj", "{EE285D89-8D67-41E3-8BF1-C7879967A970}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE285D89-8D67-41E3-8BF1-C7879967A970}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE285D89-8D67-41E3-8BF1-C7879967A970}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE285D89-8D67-41E3-8BF1-C7879967A970}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE285D89-8D67-41E3-8BF1-C7879967A970}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F0E66464-D6C3-4B96-B5DD-6E0957F205D7}
+	EndGlobalSection
+EndGlobal
